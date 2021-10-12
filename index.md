@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to the project page for CASCARA 
 
-You can use the [editor on GitHub](https://github.com/tillbo/CASCARA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+CASCARA stands for _Un**C**overing **A**nd under**S**tanding differen**C**es in he**A**lth behaviou**R**s in people with di**A**betes_. Cascara also is Spanish for shell, hence you may also understand this project as trying to break the shell that surrounds the mechanisms of behaviour change in people with diabetes. Hence the goal is to use available data sources and the tools of econometrics and data science to uncover some of the mechanisms that underlie health behvaiour change (or the lack thereof) in people with diabetes, including poorly understood socio-economic factors.
+
+CASCARA is funded through the EU Widen Fellowship.
+
+I want to use this page to provide you with information about CASCARA and access to the research produced throughout the fellowship.
+
+
+ You can use the [editor on GitHub](https://github.com/tillbo/CASCARA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
