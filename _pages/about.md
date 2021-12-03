@@ -1,20 +1,20 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "CASCARA"
+excerpt: "CASCARA"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+# Welcome to the project page for CASCARA
 
-Welcome! I am a Research Associate in the cross-departmental Research Programme 'Health and Health Systems’  at the [Luxembourg Institute of Socio-Economic Research (LISER)](https://liser.elsevierpure.com/en/persons/till-seuring) and a [Horizon 2020 Widening Fellow](https://cordis.europa.eu/project/id/101038046/). I specialize in Health Economics. I earned my Phd from the Universit of East Anglia and my M.A. in International Economics from the University of Göttingen. 
+*CASCARA* stands for Un**C**overing **A**nd under**S**tanding differen**C**es in he**A**lth behaviou**R**s in people with di**A**betes. Cascara also is Spanish for shell, hence you may also understand this project as trying to break the shell that surrounds the mechanisms of behaviour change in people with diabetes. The goal is to use available data sources and the tools of econometrics and data science to uncover some of the mechanisms that underlie health behaviour change (or the lack thereof) in people with diabetes. A particular focus of *CASCARA* are thereby socio-economic factors that influence if and how people change their behaviours.
+
+CASCARA is funded through an [Horizon 2020 Widening Fellowship](https://cordis.europa.eu/project/id/101038046/)
 
 
-My research focuses on the relationship between health, in particular diabetes and other chronic diseases, and economic outcomes and health behaviours. I mainly use econometric techniques to establish causal relationships when using observational data. I also have experience in field research. I work and have worked on projects in high-income countries—in particular Germany and Luxembourg—as well as low- and middle-income countries, such as Mexico, China and Indonesia. I have [published](https://tillseuring.github.io/publications) in *Social Science and Medicine*, *PharmacoEconomics*, *Economics and Human Biology* and *Trials*, among other outlets. I am also a collaborating member of the [GHP Project on Access to Care for Cardiometabolic Diseases (HPACC)](https://www.hsph.harvard.edu/global-health-and-population/ghp-project-on-access-to-care-for-cardiometabolic-diseases-hpacc/).
-
-I recently won a Horizon2020 Widening Fellowship to explore heterogeneities in health behaviour change after a diabetes diagnosis, using econometric and causal machine learning methods.
 
 <!---
 A data-driven personal website
