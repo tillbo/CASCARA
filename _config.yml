@@ -84,11 +84,11 @@ author:
   avatar           : "profile.jpg"
   bio              : "Health economist"
   location         : "Luxembourg/Germany"
-  employer         : "Luxembourg Institute of Socio-Economic Research"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=z1QbR-QAAAAJ&view_op=list_works"
   email            : "till.seuring@liser.lu"
-  website                  :  https://tillseuring.github.io  
+  website          :  https://tillseuring.github.io  
   researchgate     : "https://www.researchgate.net/profile/Till-Seuring"
   uri              :
   bitbucket        :
